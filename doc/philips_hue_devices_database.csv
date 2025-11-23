@@ -1,0 +1,149 @@
+model_id,product_name,product_archetype,device_category,light_type,max_lumens,color_temperature_range,notes,generation
+LCA001,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,806,,Gen 2,2
+LCA002,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,806,,Gen 3 - Richer Colors,3
+LCA003,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,806,,Gen 3.1,3.1
+LCA004,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,1100,,Gen 4 - Higher brightness,4
+LCA005,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,1100,,Gen 4,4
+LCA006,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,1100,,Gen 4,4
+LCA007,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,1100,,Gen 4,4
+LCT001,Hue Color Bulb A19/E26 Gen1,classic_bulb,Light Bulb,Color,600,,Gen 1 - Original,1
+LCT002,Hue Color Bulb BR30,spot_bulb,Flood Light,Color,650,,Gen 1,1
+LCT003,Hue Color Spot GU10,spot_bulb,Spot Light,Color,250,,Gen 1,1
+LCT007,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,806,,Gen 2,2
+LCT010,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,806,,Gen 2,2
+LCT011,Hue Color BR30,spot_bulb,Flood Light,Color,650,,Gen 2,2
+LCT012,Hue Color Candle E14,candle_bulb,Candle Bulb,Color,470,,Gen 2,2
+LCT014,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,806,,Gen 2,2
+LCT015,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,806,,Gen 3 - Richer Colors,3
+LCT016,Hue Color Bulb A19/E26,sultan_bulb,Light Bulb,Color,806,,Gen 3.1,3.1
+LCT024,Hue Color Play,hueplay,Accent Light,Color,530,,Gradient/Play light,
+LCT026,Hue Go Portable,huego,Portable Light,Color,300-400,,Portable battery powered,
+LCA011,Hue Color Bulb A21,sultan_bulb,Light Bulb,Color,1600,,Highest brightness,4
+LCG002,Hue Color GU10,spot_bulb,Spot Light,Color,350,,Current gen,
+LCE001,Hue Color Candle E14,candle_bulb,Candle Bulb,Color,470,,Current gen,
+LCE002,Hue Color Candle E12,candle_bulb,Candle Bulb,Color,470,,US candelabra base,
+LTW001,Hue White Ambiance A19/E26,sultan_bulb,Light Bulb,White Ambiance,806,153-500 mirek,Tunable white,
+LTW004,Hue White Ambiance A19/E26,sultan_bulb,Light Bulb,White Ambiance,806,153-500 mirek,Gen 2,2
+LTW010,Hue White Ambiance A19/E26,sultan_bulb,Light Bulb,White Ambiance,806,153-500 mirek,Gen 3,3
+LTW011,Hue White Ambiance BR30,spot_bulb,Flood Light,White Ambiance,650,153-500 mirek,,
+LTW012,Hue White Ambiance Candle E14,candle_bulb,Candle Bulb,White Ambiance,470,153-500 mirek,,
+LTW013,Hue White Ambiance GU10,spot_bulb,Spot Light,White Ambiance,350,153-500 mirek,,
+LTW015,Hue White Ambiance A19/E26,sultan_bulb,Light Bulb,White Ambiance,806,153-500 mirek,Gen 4,4
+LTA001,Hue White Ambiance A21,sultan_bulb,Light Bulb,White Ambiance,1600,153-500 mirek,Highest brightness,
+LTA002,Hue White Ambiance A19,sultan_bulb,Light Bulb,White Ambiance,1100,153-500 mirek,,
+LTA003,Hue White Ambiance A19,sultan_bulb,Light Bulb,White Ambiance,1100,153-500 mirek,,
+LTA007,Hue White Ambiance E12,candle_bulb,Candle Bulb,White Ambiance,470,153-500 mirek,US candelabra,
+LTA008,Hue White Ambiance E14,candle_bulb,Candle Bulb,White Ambiance,470,153-500 mirek,European,
+LTA009,Hue White Ambiance E26,sultan_bulb,Light Bulb,White Ambiance,1100,153-500 mirek,,
+LTA010,Hue White Ambiance E27,sultan_bulb,Light Bulb,White Ambiance,1100,153-500 mirek,,
+LWB001,Hue White A19/E26,sultan_bulb,Light Bulb,White Only,750,,Dimmable white only,
+LWB003,Hue White A19/E26,sultan_bulb,Light Bulb,White Only,750,,Gen 1,1
+LWB004,Hue White A19/E26,sultan_bulb,Light Bulb,White Only,750,,Gen 2,2
+LWB006,Hue White A19/E26,sultan_bulb,Light Bulb,White Only,800,,Gen 3,3
+LWB007,Hue White A19/E26,sultan_bulb,Light Bulb,White Only,806,,Gen 3,3
+LWB010,Hue White A19/E26,sultan_bulb,Light Bulb,White Only,806,,Gen 3,3
+LWB014,Hue White A19/E26,sultan_bulb,Light Bulb,White Only,840,,Gen 4,4
+LWA001,Hue White A19,sultan_bulb,Light Bulb,White Only,1100,,High brightness,
+LWA002,Hue White A19,sultan_bulb,Light Bulb,White Only,1100,,High brightness,
+LWA003,Hue White A21,sultan_bulb,Light Bulb,White Only,1600,,Highest brightness,
+LWA004,Hue White A19,sultan_bulb,Light Bulb,White Only,800,,Standard,
+LWA005,Hue White A19,sultan_bulb,Light Bulb,White Only,800,,Standard,
+LWO001,Hue White Outdoor PAR38,spot_bulb,Outdoor Flood,White Only,1350,,Outdoor rated,
+LWV001,Hue White GU10,spot_bulb,Spot Light,White Only,400,,Spot/track,
+LWV002,Hue White GU10,spot_bulb,Spot Light,White Only,400,,Spot/track,
+LST001,Hue Lightstrip,huelightstrip,Light Strip,Color,1200,,Gen 1 - 2m strip,1
+LST002,Hue Lightstrip Plus,huelightstrip,Light Strip,Color,1600,,Gen 2 - 2m strip,2
+LST003,Hue Lightstrip Outdoor,huelightstrip,Light Strip,Color,780,,2m outdoor rated IP67,
+LST004,Hue Lightstrip Outdoor,huelightstrip,Light Strip,Color,1950,,5m outdoor rated IP67,
+LCL001,Hue Lightstrip Plus,huelightstrip,Light Strip,Color,1600,,Gen 3,3
+LCL002,Hue Lightstrip Plus,huelightstrip,Light Strip,Color,1600,,Gen 3,3
+LCL003,Hue Lightstrip Plus 2m,huelightstrip,Light Strip,Color,1600,,Gen 4,4
+LCL004,Hue Lightstrip Plus 1m,huelightstrip,Light Strip,Color,800,,Gen 4 extension,4
+LCL005,Hue Lightstrip Plus Outdoor 2m,huelightstrip,Light Strip,Color,1650,,Outdoor IP67,
+LCL006,Hue Lightstrip Plus Outdoor 5m,huelightstrip,Light Strip,Color,1650,,Outdoor IP67,
+LCL007,Hue Gradient Lightstrip,huelightstrip,Light Strip,Color,1600,,Multi-zone gradient,
+LCL008,Hue Lightstrip Plus V4,huelightstrip,Light Strip,Color,1600,,Latest generation,4
+LCX001,Hue Play Gradient Lightstrip 55",huelightstrip,Light Strip,Color,1600,,TV sync 55" screens,
+LCX002,Hue Play Gradient Lightstrip 65",huelightstrip,Light Strip,Color,1600,,TV sync 65" screens,
+LCX003,Hue Play Gradient Lightstrip 75",huelightstrip,Light Strip,Color,1600,,TV sync 75" screens,
+LCX004,Hue Gradient Signe,gradient_tube,Accent Light,Color,2400,,Gradient floor/table lamp,
+LLC006,Hue Living Colors Iris,huebloom,Accent Light,Color,210,,Discontinued gen 1,1
+LLC007,Hue Living Colors Bloom,huebloom,Accent Light,Color,120,,Discontinued gen 1,1
+LLC010,Hue Living Colors Iris,huebloom,Accent Light,Color,210,,Gen 2,2
+LLC011,Hue Living Colors Bloom,huebloom,Accent Light,Color,120,,Gen 2,2
+LLC012,Hue Living Colors Bloom,huebloom,Accent Light,Color,250,,Gen 3,3
+LLC013,Hue Living Colors Bloom,huebloom,Accent Light,Color,250,,Gen 3,3
+LLC014,Hue Living Colors Bloom,huebloom,Accent Light,Color,250,,Current gen,
+LLC020,Hue Go,huego,Portable Light,Color,300,,Original portable,
+LTC001,Hue Being Ceiling,ceiling_round,Ceiling Light,White Ambiance,3200,153-500 mirek,Large ceiling fixture,
+LTC002,Hue Fair Ceiling,ceiling_round,Ceiling Light,White Ambiance,3000,153-500 mirek,Ceiling fixture,
+LTC003,Hue Struana Ceiling,ceiling_square,Ceiling Light,White Ambiance,2400,153-500 mirek,Square ceiling,
+LTC011,Hue Aurelle Square Ceiling,ceiling_square,Ceiling Light,Color,2900,,Color ceiling panel,
+LTC012,Hue Aurelle Round Ceiling,ceiling_round,Ceiling Light,Color,2500,,Color ceiling panel,
+LTC013,Hue Ensis Pendant,pendant_long,Pendant Light,White Ambiance,3000,153-500 mirek,Suspended fixture,
+LTC021,Hue Still Ceiling,ceiling_round,Ceiling Light,White Ambiance,2400,153-500 mirek,,
+LTD001,Hue Wellness Ceiling,ceiling_round,Ceiling Light,White Ambiance,2400,153-500 mirek,Wake-up light features,
+LTD002,Hue Wellness Table Lamp,table_lamp,Table Lamp,White Ambiance,806,153-500 mirek,Wake-up light features,
+LTD003,Hue Phoenix Downlight,ceiling_round,Recessed Light,White Ambiance,500,153-500 mirek,4" recessed,
+LTP001,Hue Phoenix Pendant,pendant_round,Pendant Light,White Ambiance,600,153-500 mirek,,
+LTP002,Hue Phoenix Pendant,pendant_round,Pendant Light,White Ambiance,600,153-500 mirek,,
+LTW017,Hue Muscari Table Lamp,table_lamp,Table Lamp,White Ambiance,806,153-500 mirek,,
+LDF001,Hue Filament A60 E27,classic_bulb,Filament Bulb,White Only,550,,Vintage Edison style,
+LDF002,Hue Filament ST72 E27,classic_bulb,Filament Bulb,White Only,550,,Vintage Edison style,
+LDF003,Hue Filament G93 E27,classic_bulb,Filament Bulb,White Only,550,,Vintage globe,
+LDF004,Hue Filament ST64 E26,classic_bulb,Filament Bulb,White Only,550,,US vintage Edison,
+LDF005,Hue Filament A60 E27,classic_bulb,Filament Bulb,White Ambiance,550,153-500 mirek,Tunable vintage,
+LDF006,Hue Filament ST72 E27,classic_bulb,Filament Bulb,White Ambiance,550,153-500 mirek,Tunable vintage,
+LDF007,Hue Filament G93 E27,classic_bulb,Filament Bulb,White Ambiance,550,153-500 mirek,Tunable vintage globe,
+LDF008,Hue Filament ST64 E26,classic_bulb,Filament Bulb,White Ambiance,550,153-500 mirek,US tunable vintage,
+LOM001,Hue Smart Plug,plug,Smart Plug,N/A,N/A,,EU plug - no light,
+LOM002,Hue Smart Plug,plug,Smart Plug,N/A,N/A,,US plug - no light,
+LOM003,Hue Smart Plug,plug,Smart Plug,N/A,N/A,,UK plug - no light,
+LOM010,Hue Smart Plug,plug,Smart Plug,N/A,N/A,,Latest gen plug,
+RWL020,Hue Dimmer Switch,dimmer_switch,Control,N/A,N/A,,4 button wireless dimmer,
+RWL021,Hue Dimmer Switch,dimmer_switch,Control,N/A,N/A,,Gen 2 dimmer,
+RWL022,Hue Dimmer Switch,dimmer_switch,Control,N/A,N/A,,Latest gen dimmer,
+ROM001,Hue Smart Button,unknown_archetype,Control,N/A,N/A,,Single button control,
+ROM002,Hue Smart Button V2,unknown_archetype,Control,N/A,N/A,,Redesigned button,
+RDM001,Hue Tap Dial Switch,relative_rotary,Control,N/A,N/A,,Rotary dimmer with buttons,
+RDM002,Hue Tap,unknown_archetype,Control,N/A,N/A,,4-button battery-free,
+LOM006,Hue Wall Switch Module,wall_switch,Control,N/A,N/A,,Behind switch module,
+SML001,Hue Motion Sensor,motion_sensor,Sensor,N/A,N/A,,Indoor motion + temp + light,
+SML002,Hue Motion Sensor Outdoor,motion_sensor,Sensor,N/A,N/A,,Outdoor rated motion,
+SML003,Hue Motion Sensor,motion_sensor,Sensor,N/A,N/A,,Gen 2 indoor,
+SML004,Hue Motion Sensor,motion_sensor,Sensor,N/A,N/A,,Latest gen,
+BSB001,Hue Bridge v1,bridge_v1,Bridge,N/A,N/A,,Round bridge - discontinued,1
+BSB002,Hue Bridge v2,bridge_v2,Bridge,N/A,N/A,,Square bridge - current,2
+LCA012,Hue Secure Floodlight,wall_lantern,Outdoor Floodlight,Color,2300,,Camera + floodlight,
+LCA013,Hue Secure Contact Sensor,contact_sensor,Sensor,N/A,N/A,,Door/window sensor,
+LCA014,Hue Secure Camera,security_camera,Camera,N/A,N/A,,Indoor security camera,
+LCA015,Hue Secure Wired Floodlight,wall_lantern,Outdoor Floodlight,White Only,2300,,Wired floodlight + camera,
+LWA011,Hue Outdoor Lily Spot,bollard,Outdoor Spot,Color,640,,Garden spot light,
+LWA012,Hue Outdoor Calla Bollard,bollard,Outdoor Bollard,Color,600,,Garden bollard,
+LWA013,Hue Outdoor Impress Lantern,wall_lantern,Outdoor Wall,Color,1200,,Wall mounted outdoor,
+LWA014,Hue Outdoor Lucca Lantern,wall_lantern,Outdoor Wall,White Only,1200,,Wall mounted outdoor,
+LWA015,Hue Outdoor Turaco Lantern,wall_lantern,Outdoor Wall,Color,930,,Wall mounted outdoor,
+LWA016,Hue Outdoor Resonate Lantern,wall_lantern,Outdoor Wall,Color,1150,,Wall mounted outdoor,
+LWA017,Hue Outdoor Nyro Lantern,wall_lantern,Outdoor Wall,White Only,1150,,Wall mounted outdoor,
+LCF001,Hue Play HDMI Sync Box,sync_box,Accessory,N/A,N/A,,HDMI sync for entertainment,
+LCF002,Hue Sync Box 8K,sync_box,Accessory,N/A,N/A,,8K HDMI sync box,
+LCT032,Hue Signe Floor Lamp,gradient_tube,Floor Lamp,Color,2000,,Gradient floor lamp,
+LCT033,Hue Signe Table Lamp,gradient_tube,Table Lamp,Color,2000,,Gradient table lamp,
+LCP001,Hue Play Bar,hueplay,Accent Light,Color,530,,Compact bar light,
+LCP002,Hue Play Light Bar,hueplay,Accent Light,Color,530,,Single bar,
+LWO002,Hue Outdoor Appear Lantern,wall_lantern,Outdoor Wall,White Only,1200,,Simple outdoor wall,
+LWO003,Hue Outdoor Inara Lantern,wall_lantern,Outdoor Wall,White Only,1350,,Large outdoor wall,
+LTA011,Hue Festavia String Lights,string_lights,String Lights,Color,250,,Outdoor string 20m,
+LTA012,Hue Festavia String Lights,string_lights,String Lights,Color,250,,Outdoor string 40m,
+LDD001,Hue Tap Bar,track_light,Track Light,Color,530,,Track mounted bars,
+LDD002,Hue Centris Ceiling,ceiling_square,Ceiling Light,Color,1050,,Modular spots,
+LDD003,Hue Runner Ceiling,ceiling_horizontal,Ceiling Light,Color,1050,,Bar with multiple spots,
+LDD004,Hue Argenta Ceiling,ceiling_round,Ceiling Light,Color,800,,Round spotlight,
+LWE001,Hue Flourish Ceiling,ceiling_round,Ceiling Light,White Ambiance,3000,153-500 mirek,Large round ceiling,
+LWE002,Hue Adore Ceiling,ceiling_round,Ceiling Light,White Ambiance,2400,153-500 mirek,Bathroom rated,
+LWE003,Hue Xamento Ceiling,ceiling_square,Ceiling Light,White Ambiance,2400,153-500 mirek,Square bathroom,
+LCE003,Hue Twilight,table_lamp,Table Lamp,Color,420,,Sleep/wake lamp,
+LCE004,Hue Iris,huebloom,Accent Light,Color,570,,Current Iris model,
+LCE005,Hue Gradient Ambiance Lightstrip,huelightstrip,Light Strip,Color,1800,,Ambient gradient,
+LCF003,Hue Bridge Pro,bridge_v2,Bridge,N/A,N/A,,Professional bridge,
+LDD010,Hue Perifo Track System,track_light,Track Light,Color,530,,Modular track system,

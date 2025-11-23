@@ -1,0 +1,76 @@
+---
+# Philips Hue Bridge Configuration
+# 
+# Setup Instructions:
+# 1. Run: python setup_hue_auth.py
+# 2. Press link button on bridge when prompted
+# 3. Configuration will be saved automatically
+#
+# Manual Configuration:
+# - ip: Your bridge IP address (e.g., "192.168.1.4")
+# - api_key: Application key from authentication (40-character hex string)
+# - client_key: Optional PSK for entertainment API
+
+bridge:
+  ip: ""
+  api_key: ""
+  # client_key: ""  # Optional: for entertainment API
+  
+# API Settings
+api:
+  version: "v2"
+  base_path: "/clip/v2"
+  use_https: true
+  verify_ssl: false  # Bridge uses self-signed certificate
+
+# Timeouts (seconds)
+timeouts:
+  request: 10
+  connection: 5
+
+# Available Resource Types (API v2). This section is for reference purpose only. It wont be parsed by the application
+# Full list for reference - all types accessible via /resource/{type}
+resources:
+  core:
+    - light           # Individual lights
+    - scene           # Saved scenes
+    - room            # Physical rooms
+    - zone            # Custom zones
+    - grouped_light   # Group control endpoint
+    - device          # Physical devices
+    - bridge          # Bridge information
+    - bridge_home     # Home configuration
+  
+  sensors:
+    - motion          # Motion sensors
+    - temperature     # Temperature sensors
+    - light_level     # Light level sensors
+    - contact         # Contact sensors
+    
+  controls:
+    - button          # Button devices
+    - relative_rotary # Rotary controls
+    
+  connectivity:
+    - device_power         # Power state
+    - zigbee_connectivity  # Zigbee status
+    
+  entertainment:
+    - entertainment                # Entertainment areas
+    - entertainment_configuration  # Entertainment setup
+    
+  automation:
+    - behavior_script    # Automation scripts
+    - behavior_instance  # Automation instances
+    - smart_scene        # Smart scenes
+    
+  integration:
+    - homekit            # HomeKit integration
+    - matter             # Matter integration
+    - matter_fabric      # Matter fabric info
+    - geofence_client    # Geofencing
+    - geolocation        # Location data
+    
+  metadata:
+    - scene_palette      # Scene palettes
+    - public_image       # Public images
