@@ -63,9 +63,9 @@ LCL005,Hue Lightstrip Plus Outdoor 2m,huelightstrip,Light Strip,Color,1650,,Outd
 LCL006,Hue Lightstrip Plus Outdoor 5m,huelightstrip,Light Strip,Color,1650,,Outdoor IP67,
 LCL007,Hue Gradient Lightstrip,huelightstrip,Light Strip,Color,1600,,Multi-zone gradient,
 LCL008,Hue Lightstrip Plus V4,huelightstrip,Light Strip,Color,1600,,Latest generation,4
-LCX001,Hue Play Gradient Lightstrip 55",huelightstrip,Light Strip,Color,1600,,TV sync 55" screens,
-LCX002,Hue Play Gradient Lightstrip 65",huelightstrip,Light Strip,Color,1600,,TV sync 65" screens,
-LCX003,Hue Play Gradient Lightstrip 75",huelightstrip,Light Strip,Color,1600,,TV sync 75" screens,
+LCX001,Hue Play Gradient Lightstrip 55,huelightstrip,Light Strip,Color,1600,,TV sync 55 screens,
+LCX002,Hue Play Gradient Lightstrip 65,huelightstrip,Light Strip,Color,1600,,TV sync 65 screens,
+LCX003,Hue Play Gradient Lightstrip 75,huelightstrip,Light Strip,Color,1600,,TV sync 75 screens,
 LCX004,Hue Gradient Signe,gradient_tube,Accent Light,Color,2400,,Gradient floor/table lamp,
 LLC006,Hue Living Colors Iris,huebloom,Accent Light,Color,210,,Discontinued gen 1,1
 LLC007,Hue Living Colors Bloom,huebloom,Accent Light,Color,120,,Discontinued gen 1,1
@@ -84,7 +84,7 @@ LTC013,Hue Ensis Pendant,pendant_long,Pendant Light,White Ambiance,3000,153-500 
 LTC021,Hue Still Ceiling,ceiling_round,Ceiling Light,White Ambiance,2400,153-500 mirek,,
 LTD001,Hue Wellness Ceiling,ceiling_round,Ceiling Light,White Ambiance,2400,153-500 mirek,Wake-up light features,
 LTD002,Hue Wellness Table Lamp,table_lamp,Table Lamp,White Ambiance,806,153-500 mirek,Wake-up light features,
-LTD003,Hue Phoenix Downlight,ceiling_round,Recessed Light,White Ambiance,500,153-500 mirek,4" recessed,
+LTD003,Hue Phoenix Downlight,ceiling_round,Recessed Light,White Ambiance,500,153-500 mirek,4 recessed,
 LTP001,Hue Phoenix Pendant,pendant_round,Pendant Light,White Ambiance,600,153-500 mirek,,
 LTP002,Hue Phoenix Pendant,pendant_round,Pendant Light,White Ambiance,600,153-500 mirek,,
 LTW017,Hue Muscari Table Lamp,table_lamp,Table Lamp,White Ambiance,806,153-500 mirek,,

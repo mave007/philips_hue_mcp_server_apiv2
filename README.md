@@ -81,7 +81,7 @@ timeouts:
 
 API v2 uses resource-based endpoints via HTTPS:
 
-```
+```yaml
 Base URL: https://{bridge_ip}/clip/v2
 Header:   hue-application-key: {api_key}
 ```
@@ -268,7 +268,35 @@ Get comprehensive light information.
 
 **Example:**
 ```json
-{}
+[
+  {
+    "id": "e706416a-8c92-46ef-8589-3453f3235b13",
+    "name": "Living Room Lamp",
+    "type": "light",
+    "on": true,
+    "brightness": 75.0,
+    "color_temp_mirek": 300,
+    "color_xy": {
+      "x": 0.3,
+      "y": 0.3
+    },
+    "reachable": true,
+    "rooms": ["Living Room"],
+    "model": "Hue color lamp"
+  },
+  {
+    "id": "a1b2c3d4-5678-90ab-cdef-1234567890ab",
+    "name": "Office Desk",
+    "type": "light",
+    "on": false,
+    "brightness": null,
+    "color_temp_mirek": null,
+    "color_xy": null,
+    "reachable": true,
+    "rooms": ["Office"],
+    "model": "Hue white lamp"
+  }
+]
 ```
 
 #### `hue_search_by_name`
@@ -364,7 +392,7 @@ API v2 uses a resource-based model where:
   "on": {"on": true},                        // Power state
   "dimming": {"brightness": 75.0},           // Brightness (0-100%)
   "color_temperature": {"mirek": 300},       // Color temp
-  "color": {"xy": {"x": 0.3, "y": 0.3}},    // Color
+  "color": {"xy": {"x": 0.3, "y": 0.3}},     // Color
   "dynamics": {"duration": 1000}             // Transition time (ms)
 }
 ```
